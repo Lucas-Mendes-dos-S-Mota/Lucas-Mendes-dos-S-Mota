@@ -1,6 +1,4 @@
-<div alingn="center">
-<img align="right" width="200" height="200" src="https://cdn130.picsart.com/349339421063211.png">
-</div>
+
 SALVEEE !!! Eu sou o Lucas Mendes
 
 😎 Sou dev full stack junior
@@ -14,6 +12,10 @@ SALVEEE !!! Eu sou o Lucas Mendes
 
 
 ## Tecnologias que eu uso no meu dia
+</div>
+<div alingn="center">
+<img align="right" width="200" height="200" src="https://cdn130.picsart.com/349339421063211.png">
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> 
@@ -24,4 +26,3 @@ SALVEEE !!! Eu sou o Lucas Mendes
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-</div>
