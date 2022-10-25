@@ -6,6 +6,8 @@
 sei lidar com o publico e tenho um bom trabalho em equipe e hoje sou um desenvolvedor fullstack buscando uma oportunidade no mercado tecnologia</p>
 <div></div>
 
+##
+
 <div align="center">
   <a href="https://github.com/Lucas-Mendes-dos-S-Mota">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Mendes-dos-S-Mota&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
