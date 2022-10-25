@@ -1,16 +1,21 @@
-### Hi there 👋
+SALVEEE !!! Eu sou o Lucas Mendes
 
-<!--
-**Lucas-Mendes-dos-S-Mota/Lucas-Mendes-dos-S-Mota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😎 Sou dev full stack junior
+<div align="center">
+  <a href="https://github.com/Lucas-Mendes-dos-S-Mota">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Mendes-dos-S-Mota&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Mendes-dos-S-Mota&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu uso no meu dia
+<div style="display: inline_block"><br>
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
+    <img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> 
+    <img align="center" alt="" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> 
+<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+</div>
