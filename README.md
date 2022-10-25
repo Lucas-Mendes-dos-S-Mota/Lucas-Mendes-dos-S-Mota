@@ -1,5 +1,5 @@
-
-SALVEEE !!! Eu sou o Lucas Mendes
+<img align="right" width="200" height="200" src="https://cdn130.picsart.com/349339421063211.png">
+<h1>SALVEEE !!! Eu sou o Lucas Mendes</h1>
 
 😎 Sou dev full stack junior
 <p>Tenho 23 anos estou em transição de carreira trabalhei na companhia de distribuição brasileira grupo pão de açucar  onde adiquiri uma boa comunicação 
@@ -16,10 +16,10 @@ sei lidar com o publico e tenho um bom trabalho em equipe e hoje sou um desenvol
 ## Tecnologias que eu uso no meu dia
 </div>
 <div alingn="center">
-<img align="right" width="200" height="200" src="https://cdn130.picsart.com/349339421063211.png">
+
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> 
     <img align="center" alt="" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> 
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
