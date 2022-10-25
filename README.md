@@ -11,7 +11,7 @@ sei lidar com o publico e tenho um bom trabalho em equipe e hoje sou um desenvol
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Mendes-dos-S-Mota&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Mendes-dos-S-Mota&layout=compact&langs_count=7&theme=dark"/>
 </div>
-##
+
 
 ## Tecnologias que eu uso no meu dia
 </div>
@@ -19,7 +19,7 @@ sei lidar com o publico e tenho um bom trabalho em equipe e hoje sou um desenvol
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> 
     <img align="center" alt="" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> 
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
