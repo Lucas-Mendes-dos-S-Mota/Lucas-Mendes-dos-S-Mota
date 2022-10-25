@@ -4,6 +4,7 @@
 😎 Sou dev full stack junior
 <p>Tenho 23 anos estou em transição de carreira trabalhei na companhia de distribuição brasileira grupo pão de açucar  onde adiquiri uma boa comunicação 
 sei lidar com o publico e tenho um bom trabalho em equipe e hoje sou um desenvolvedor fullstack buscando uma oportunidade no mercado tecnologia</p>
+##
 <div></div>
 
 <div align="center">
@@ -11,7 +12,7 @@ sei lidar com o publico e tenho um bom trabalho em equipe e hoje sou um desenvol
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Mendes-dos-S-Mota&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Mendes-dos-S-Mota&layout=compact&langs_count=7&theme=dark"/>
 </div>
-##
+
 
 ## Tecnologias que eu uso no meu dia
 </div>
