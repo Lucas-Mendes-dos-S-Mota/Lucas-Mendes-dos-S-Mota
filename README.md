@@ -4,7 +4,9 @@
 😎 Sou dev full stack junior
 <p>Tenho 23 anos estou em transição de carreira trabalhei na companhia de distribuição brasileira grupo pão de açucar  onde adiquiri uma boa comunicação 
 sei lidar com o publico e tenho um bom trabalho em equipe e hoje sou um desenvolvedor fullstack buscando uma oportunidade no mercado tecnologia</p>
+
 ##
+
 <div></div>
 
 <div align="center">
