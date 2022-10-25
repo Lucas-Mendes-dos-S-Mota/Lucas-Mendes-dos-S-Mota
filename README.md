@@ -11,7 +11,7 @@ sei lidar com o publico e tenho um bom trabalho em equipe e hoje sou um desenvol
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Mendes-dos-S-Mota&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Mendes-dos-S-Mota&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+##
 
 ## Tecnologias que eu uso no meu dia
 </div>
