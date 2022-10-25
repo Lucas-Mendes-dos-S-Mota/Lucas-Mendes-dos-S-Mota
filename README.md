@@ -1,11 +1,17 @@
+<div alingn="center">
+<img align="right" width="200" height="200" src="https://cdn130.picsart.com/349339421063211.png">
+</div>
 SALVEEE !!! Eu sou o Lucas Mendes
 
 😎 Sou dev full stack junior
+<div></div>
+
 <div align="center">
   <a href="https://github.com/Lucas-Mendes-dos-S-Mota">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Mendes-dos-S-Mota&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Mendes-dos-S-Mota&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br>
