@@ -1,8 +1,8 @@
 <img align="right" width="200" height="200" src="https://cdn130.picsart.com/349339421063211.png">
 <h1>SALVEEE !!! Eu sou o Lucas Mendes</h1>
 
-<h2>😎 Sou dev full stack junior</h2>
-<p>Tenho 23 anos, e sou apaixonado pela tecnologia. Sempre tive contato com ela e aprendi diversas de suas vertentes, desde manutenção em smartphones, montagem de computadores, edição de vídeos até mesmo com desenvolvimento de softwares. Passei um bom tempo de minha vida no computador, sou um amante de jogos e por isso decidi unir o útil ao agradável e alavancar minha carreira profissional com o que faço de melhor.  </p>
+<h2>😎 Sou dev full stack Jr</h2>
+<p>Tenho 23 anos, e sou apaixonado pela tecnologia. Sempre tive contato com ela e aprendi diversas de suas vertentes, desde manutenção em smartphones, montagem de computadores, edição de vídeos até mesmo com desenvolvimento de softwares. Passei um bom tempo de minha vida no computador, sou um amante de jogos e por isso decidi unir o útil ao agradável e alavancar minha carreira profissional com o que faço de melhor. </p>
 <div></div>
 
 ##
